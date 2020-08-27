@@ -8,4 +8,9 @@ module PageObjects
     def cadastro
         cadastro = Cadastro.new
     end
+
+   
+
+
+
 end 
